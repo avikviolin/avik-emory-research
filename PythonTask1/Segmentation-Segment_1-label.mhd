@@ -1,0 +1,14 @@
+ObjectType = Image
+NDims = 3
+BinaryData = True
+BinaryDataByteOrderMSB = False
+CompressedData = True
+CompressedDataSize = 27717
+TransformMatrix = 1 6.1931525446173883e-13 1.1253457367355056e-11 6.1931524089739608e-13 0.99396095483075331 -0.10973431674702908 -1.125345772539748e-11 0.10973432271075881 0.99396095417235131
+Offset = -118.95530700683595 -65.839782714843722 -33.365886688232436
+CenterOfRotation = 0 0 0
+AnatomicalOrientation = RAI
+ElementSpacing = 0.5 0.5 2.9999988079071045
+DimSize = 384 384 19
+ElementType = MET_SHORT
+ElementDataFile = Segmentation-Segment_1-label.zraw
